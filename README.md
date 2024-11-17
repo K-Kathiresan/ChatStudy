@@ -1,5 +1,6 @@
 # Ex. No:1b 			Study of Client Server Chat Applications
-
+## Name:Kathiresan K
+## Reg no:212223110021
 ## Aim: 
 To perform a study on Client Server Chat Applications
 ## Introduction:
